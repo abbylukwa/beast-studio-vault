@@ -1,0 +1,15 @@
+{
+ "version": 4,
+ "cycle": 1,
+ "startedAt": "2026-11-13T07:42:49.757Z",
+ "owner": "Beast Studio",
+ "sites": [],
+ "log": [
+  {
+   "at": "2026-11-13T07:42:49.757Z",
+   "message": "v4 truthful engine — the studio opens empty and every task is real work, logged as it happens.",
+   "level": "info"
+  }
+ ],
+ "transcript": []
+}
