@@ -1912,7 +1912,11 @@
      ],
      "signup": [
       "Join — optionally",
-      "A local demo account"
+      "A local demo account",
+      "No forced registration here",
+      "What you get — bean standard",
+      "How it runs — bean standard",
+      "The honest numbers — bean standard"
      ]
     },
     "copy": {
@@ -6282,11 +6286,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:38:24.852Z"
     },
     {
      "id": "ground-velvet-29839e-t199",
@@ -6308,11 +6313,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T10:38:25.456Z"
     },
     {
      "id": "ground-velvet-29839e-t200",
@@ -6334,11 +6340,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T10:38:44.856Z"
     },
     {
      "id": "ground-velvet-29839e-t201",
@@ -6360,11 +6367,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 5
+     "slot": 5,
+     "acceptedAt": "2026-11-14T10:38:45.251Z"
     },
     {
      "id": "ground-velvet-29839e-t202",
@@ -14918,7 +14926,11 @@
      ],
      "signup": [
       "Join — optionally",
-      "A local demo account"
+      "A local demo account",
+      "No forced registration here",
+      "What you get — blue standard",
+      "How it runs — blue standard",
+      "The honest numbers — blue standard"
      ]
     },
     "copy": {
@@ -19288,11 +19300,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:38:25.251Z"
     },
     {
      "id": "ironblue-4ef77f-t580",
@@ -19314,11 +19327,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T10:38:44.675Z"
     },
     {
      "id": "ironblue-4ef77f-t581",
@@ -19340,11 +19354,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T10:38:44.957Z"
     },
     {
      "id": "ironblue-4ef77f-t582",
@@ -19366,11 +19381,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 5
+     "slot": 5,
+     "acceptedAt": "2026-11-14T10:39:04.679Z"
     },
     {
      "id": "ironblue-4ef77f-t583",
@@ -27979,7 +27995,11 @@
       "The honest numbers"
      ],
      "signup": [
-      "Join — optionally"
+      "Join — optionally",
+      "A local demo account",
+      "No forced registration here",
+      "What you get — stem standard",
+      "How it runs — stem standard"
      ]
     },
     "copy": {
@@ -32320,11 +32340,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:38:24.752Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t960",
@@ -32346,11 +32367,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:38:25.358Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t961",
@@ -32372,11 +32394,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T10:38:44.754Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t962",
@@ -32398,11 +32421,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "signup",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T10:38:45.059Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t963",
@@ -39879,6 +39903,90 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T10:39:04.679Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Sign up — heading 6 of 6",
+   "message": "IronBlue: Sign up — heading 6 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:45.251Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Sign up — heading 6 of 6",
+   "message": "Ground & Velvet: Sign up — heading 6 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:45.059Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "message": "The Paper Meadow: Sign up — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:44.957Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "message": "IronBlue: Sign up — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:44.856Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "message": "Ground & Velvet: Sign up — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:44.754Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "message": "The Paper Meadow: Sign up — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:44.676Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "message": "IronBlue: Sign up — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:25.456Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "message": "Ground & Velvet: Sign up — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:25.358Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "message": "The Paper Meadow: Sign up — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:25.251Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "message": "IronBlue: Sign up — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:24.852Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "message": "Ground & Velvet: Sign up — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:38:24.753Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Sign up — heading 2 of 6",
+   "message": "The Paper Meadow: Sign up — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T10:38:24.671Z",
    "siteId": "ironblue-4ef77f",
    "taskTitle": "Sign up — heading 2 of 6",
@@ -42593,93 +42701,189 @@
    "taskTitle": "Reason about the catalog — what the products must do",
    "message": "IronBlue: Reason about the catalog — what the products must do — Catalog law for 0 products: every product needs a name a regular would actually say, a one-line description with a concrete fact, and a price with no hidden extras. Each product earns its own detail page, its own image slot, its own alt text.",
    "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:44.511Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "Reason about the catalog — what the products must do",
-   "message": "Ground & Velvet: Reason about the catalog — what the products must do — Catalog law for 0 products: the catalog must survive the skim test: scannable names, honest prices, tags only when true. Each product earns its own detail page, its own image slot, its own alt text.",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:44.505Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "Choose the D5 archetype",
-   "message": "The Paper Meadow: Choose the D5 archetype — deterministic solver — brief-fit archetype from 20 D5 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:44.494Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "Choose the D5 archetype",
-   "message": "IronBlue: Choose the D5 archetype — deterministic solver — brief-fit archetype from 20 D5 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:44.487Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "Choose the D5 archetype",
-   "message": "Ground & Velvet: Choose the D5 archetype — deterministic solver — brief-fit archetype from 20 D5 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.552Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "Choose the D4 archetype",
-   "message": "The Paper Meadow: Choose the D4 archetype — deterministic solver — brief-fit archetype from 24 D4 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.497Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "Choose the D4 archetype",
-   "message": "IronBlue: Choose the D4 archetype — deterministic solver — brief-fit archetype from 24 D4 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.495Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "Choose the D4 archetype",
-   "message": "Ground & Velvet: Choose the D4 archetype — deterministic solver — brief-fit archetype from 24 D4 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.490Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "Choose the D3 archetype",
-   "message": "The Paper Meadow: Choose the D3 archetype — deterministic solver — brief-fit archetype from 25 D3 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.486Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "Choose the D3 archetype",
-   "message": "IronBlue: Choose the D3 archetype — deterministic solver — brief-fit archetype from 25 D3 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:24.483Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "Choose the D3 archetype",
-   "message": "Ground & Velvet: Choose the D3 archetype — deterministic solver — brief-fit archetype from 25 D3 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:04.557Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "Choose the D2 archetype",
-   "message": "The Paper Meadow: Choose the D2 archetype — deterministic solver — brief-fit archetype from 23 D2 layouts",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:16:04.553Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "Choose the D2 archetype",
-   "message": "IronBlue: Choose the D2 archetype — deterministic solver — brief-fit archetype from 23 D2 layouts",
-   "level": "done"
   }
  ],
  "transcript": [
+  {
+   "id": "ironblue-4ef77f-t582-1794652744679",
+   "taskId": "ironblue-4ef77f-t582",
+   "taskTitle": "Sign up — heading 6 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 6 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"The honest numbers — blue standard\",\"alt\":\"The honest numbers — blue standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:39:04.679Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t201-1794652725251",
+   "taskId": "ground-velvet-29839e-t201",
+   "taskTitle": "Sign up — heading 6 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 6 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"The honest numbers — bean standard\",\"alt\":\"The honest numbers — bean standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:45.251Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t962-1794652725059",
+   "taskId": "the-paper-meadow-e34caa-t962",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"How it runs — stem standard\",\"alt\":\"How it runs — stem standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:45.059Z"
+  },
+  {
+   "id": "ironblue-4ef77f-t581-1794652724957",
+   "taskId": "ironblue-4ef77f-t581",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"How it runs — blue standard\",\"alt\":\"How it runs — blue standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:44.957Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t200-1794652724856",
+   "taskId": "ground-velvet-29839e-t200",
+   "taskTitle": "Sign up — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"How it runs — bean standard\",\"alt\":\"How it runs — bean standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:44.856Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t961-1794652724754",
+   "taskId": "the-paper-meadow-e34caa-t961",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — stem standard\",\"alt\":\"What you get — stem standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:44.754Z"
+  },
+  {
+   "id": "ironblue-4ef77f-t580-1794652724675",
+   "taskId": "ironblue-4ef77f-t580",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — blue standard\",\"alt\":\"What you get — blue standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:44.675Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t199-1794652705456",
+   "taskId": "ground-velvet-29839e-t199",
+   "taskTitle": "Sign up — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — bean standard\",\"alt\":\"What you get — bean standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:25.456Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t960-1794652705358",
+   "taskId": "the-paper-meadow-e34caa-t960",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"No forced registration here\",\"alt\":\"No forced registration here\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:25.358Z"
+  },
+  {
+   "id": "ironblue-4ef77f-t579-1794652705250",
+   "taskId": "ironblue-4ef77f-t579",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"No forced registration here\",\"alt\":\"No forced registration here\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:25.250Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t198-1794652704852",
+   "taskId": "ground-velvet-29839e-t198",
+   "taskTitle": "Sign up — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"No forced registration here\",\"alt\":\"No forced registration here\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:24.852Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t959-1794652704752",
+   "taskId": "the-paper-meadow-e34caa-t959",
+   "taskTitle": "Sign up — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the sign up page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"A local demo account\",\"alt\":\"A local demo account\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:38:24.752Z"
+  },
   {
    "id": "ironblue-4ef77f-t578-1794652704670",
    "taskId": "ironblue-4ef77f-t578",
@@ -46999,186 +47203,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.9,
    "at": "2026-11-14T10:22:05.261Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t482-1794651725158",
-   "taskId": "ironblue-4ef77f-t482",
-   "taskTitle": "Services — heading 6 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 6 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"How it runs — blue standard\",\"alt\":\"How it runs — blue standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:22:05.158Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t101-1794651724959",
-   "taskId": "ground-velvet-29839e-t101",
-   "taskTitle": "Services — heading 6 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 6 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"How it runs — bean standard\",\"alt\":\"How it runs — bean standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:22:04.959Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t862-1794651724654",
-   "taskId": "the-paper-meadow-e34caa-t862",
-   "taskTitle": "Services — heading 5 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 5 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What you get — stem standard\",\"alt\":\"What you get — stem standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:22:04.654Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t481-1794651724563",
-   "taskId": "ironblue-4ef77f-t481",
-   "taskTitle": "Services — heading 5 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 5 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What you get — blue standard\",\"alt\":\"What you get — blue standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:22:04.563Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t100-1794651724538",
-   "taskId": "ground-velvet-29839e-t100",
-   "taskTitle": "Services — heading 5 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 5 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What you get — bean standard\",\"alt\":\"What you get — bean standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:22:04.538Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t861-1794651704860",
-   "taskId": "the-paper-meadow-e34caa-t861",
-   "taskTitle": "Services — heading 4 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 4 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"Ready when you are\",\"alt\":\"Ready when you are\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.860Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t480-1794651704762",
-   "taskId": "ironblue-4ef77f-t480",
-   "taskTitle": "Services — heading 4 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 4 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"Ready when you are\",\"alt\":\"Ready when you are\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.762Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t99-1794651704664",
-   "taskId": "ground-velvet-29839e-t99",
-   "taskTitle": "Services — heading 4 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 4 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"Ready when you are\",\"alt\":\"Ready when you are\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.664Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t860-1794651704650",
-   "taskId": "the-paper-meadow-e34caa-t860",
-   "taskTitle": "Services — heading 3 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 3 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What it costs\",\"alt\":\"What it costs\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.650Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t479-1794651704551",
-   "taskId": "ironblue-4ef77f-t479",
-   "taskTitle": "Services — heading 3 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 3 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What it costs\",\"alt\":\"What it costs\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.551Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t98-1794651704534",
-   "taskId": "ground-velvet-29839e-t98",
-   "taskTitle": "Services — heading 3 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 3 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"What it costs\",\"alt\":\"What it costs\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:44.534Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t859-1794651684955",
-   "taskId": "the-paper-meadow-e34caa-t859",
-   "taskTitle": "Services — heading 2 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 2 of 6 for the services page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"How it works\",\"alt\":\"How it works\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:21:24.955Z"
   }
  ]
 }
