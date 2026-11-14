@@ -1847,7 +1847,9 @@
       "How it runs — leaf standard"
      ],
      "directory": [
-      "Every desk, every number"
+      "Every desk, every number",
+      "Who to ask for what",
+      "Hours, plainly"
      ]
     },
     "copy": {
@@ -4680,11 +4682,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:57:10.660Z"
     },
     {
      "id": "leaf-wilder-55aca6-t148",
@@ -4706,11 +4709,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T08:57:10.962Z"
     },
     {
      "id": "leaf-wilder-55aca6-t149",
@@ -14133,7 +14137,9 @@
       "How it runs — breath standard"
      ],
      "directory": [
-      "Every desk, every number"
+      "Every desk, every number",
+      "Who to ask for what",
+      "Hours, plainly"
      ]
     },
     "copy": {
@@ -16962,11 +16968,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:57:10.761Z"
     },
     {
      "id": "mat-quiet-6a03e7-t511",
@@ -16988,11 +16995,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T08:57:11.061Z"
     },
     {
      "id": "mat-quiet-6a03e7-t512",
@@ -26719,7 +26727,9 @@
       "How it runs — clay standard"
      ],
      "directory": [
-      "Every desk, every number"
+      "Every desk, every number",
+      "Who to ask for what",
+      "Hours, plainly"
      ]
     },
     "copy": {
@@ -29550,11 +29560,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:57:10.861Z"
     },
     {
      "id": "the-wilder-clay-344665-t886",
@@ -29576,11 +29587,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T08:57:30.257Z"
     },
     {
      "id": "the-wilder-clay-344665-t887",
@@ -37143,6 +37155,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T08:57:30.257Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "message": "The Wilder Clay: Contacts — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:11.062Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "message": "Mat & Quiet: Contacts — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:10.962Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "message": "Leaf & Wilder: Contacts — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:10.861Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "message": "The Wilder Clay: Contacts — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:10.761Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "message": "Mat & Quiet: Contacts — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:10.660Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "message": "Leaf & Wilder: Contacts — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T08:57:10.554Z",
    "siteId": "the-wilder-clay-344665",
    "taskTitle": "Contacts — heading 1 of 6",
@@ -39272,6 +39326,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "the-wilder-clay-344665-t886-1794646650257",
+   "taskId": "the-wilder-clay-344665-t886",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Hours, plainly\",\"alt\":\"Hours, plainly\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:30.257Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t511-1794646631061",
+   "taskId": "mat-quiet-6a03e7-t511",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Hours, plainly\",\"alt\":\"Hours, plainly\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:11.061Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t148-1794646630962",
+   "taskId": "leaf-wilder-55aca6-t148",
+   "taskTitle": "Contacts — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Hours, plainly\",\"alt\":\"Hours, plainly\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:10.962Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t885-1794646630861",
+   "taskId": "the-wilder-clay-344665-t885",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Who to ask for what\",\"alt\":\"Who to ask for what\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:10.861Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t510-1794646630761",
+   "taskId": "mat-quiet-6a03e7-t510",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Who to ask for what\",\"alt\":\"Who to ask for what\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:10.761Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t147-1794646630660",
+   "taskId": "leaf-wilder-55aca6-t147",
+   "taskTitle": "Contacts — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Who to ask for what\",\"alt\":\"Who to ask for what\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:10.660Z"
+  },
   {
    "id": "the-wilder-clay-344665-t884-1794646630554",
    "taskId": "the-wilder-clay-344665-t884",
@@ -43681,96 +43825,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.9,
    "at": "2026-11-14T08:44:10.058Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t48-1794645830153",
-   "taskId": "the-wilder-clay-344665-t48",
-   "taskTitle": "Convert the findings into build demands",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Each selected pain becomes a demand with a hard rule, injected into the tasks it governs.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Every finding maps to ≥ 1 task kind. | Rules are phrased as testable laws, not wishes.",
-   "raw": "{\"demands\":[{\"complaintId\":\"popup-walls\",\"rule\":\"Nothing blocks the page. Any notice is inline, small and dismissible. (review: popup-walls)\",\"feeds\":\"page.build,qa.a11y,qa.audit\"},{\"complaintId\":\"autoplay-sound\",\"rule\":\"Media stays silent until clicked. (review: autoplay-sound)\",\"feeds\":\"page.build,qa.html\"},{\"complaintId\":\"carousel-ignore\",\"rule\":\"One honest hero; content in static, scannable grids. (review: carousel-ignore)\",\"feeds\":\"page.build,layout.assign\"},{\"complaintId\":\"speed-death\",\"ru",
-   "interpretation": "31 demands locked. Each is injected as a hard rule into the tasks it feeds (26 task kinds governed).",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.153Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t25-1794645830063",
-   "taskId": "mat-quiet-6a03e7-t25",
-   "taskTitle": "Convert the findings into build demands",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Each selected pain becomes a demand with a hard rule, injected into the tasks it governs.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Every finding maps to ≥ 1 task kind. | Rules are phrased as testable laws, not wishes.",
-   "raw": "{\"demands\":[{\"complaintId\":\"popup-walls\",\"rule\":\"Nothing blocks the page. Any notice is inline, small and dismissible. (review: popup-walls)\",\"feeds\":\"page.build,qa.a11y,qa.audit\"},{\"complaintId\":\"autoplay-sound\",\"rule\":\"Media stays silent until clicked. (review: autoplay-sound)\",\"feeds\":\"page.build,qa.html\"},{\"complaintId\":\"carousel-ignore\",\"rule\":\"One honest hero; content in static, scannable grids. (review: carousel-ignore)\",\"feeds\":\"page.build,layout.assign\"},{\"complaintId\":\"speed-death\",\"ru",
-   "interpretation": "31 demands locked. Each is injected as a hard rule into the tasks it feeds (26 task kinds governed).",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.063Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t2-1794645830060",
-   "taskId": "leaf-wilder-55aca6-t2",
-   "taskTitle": "Convert the findings into build demands",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Each selected pain becomes a demand with a hard rule, injected into the tasks it governs.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Every finding maps to ≥ 1 task kind. | Rules are phrased as testable laws, not wishes.",
-   "raw": "{\"demands\":[{\"complaintId\":\"popup-walls\",\"rule\":\"Nothing blocks the page. Any notice is inline, small and dismissible. (review: popup-walls)\",\"feeds\":\"page.build,qa.a11y,qa.audit\"},{\"complaintId\":\"autoplay-sound\",\"rule\":\"Media stays silent until clicked. (review: autoplay-sound)\",\"feeds\":\"page.build,qa.html\"},{\"complaintId\":\"carousel-ignore\",\"rule\":\"One honest hero; content in static, scannable grids. (review: carousel-ignore)\",\"feeds\":\"page.build,layout.assign\"},{\"complaintId\":\"speed-death\",\"ru",
-   "interpretation": "31 demands locked. Each is injected as a hard rule into the tasks it feeds (26 task kinds governed).",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.060Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t47-1794645830059",
-   "taskId": "the-wilder-clay-344665-t47",
-   "taskTitle": "Survey what people hate — the review corpus scan",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Read the corpus of documented public complaints and user research; select the pains that bite for this niche.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Cite the source of every pain you keep. | Universal pains always stay; commerce pains join when the niche sells. | Every selected pain must carry a demand.",
-   "raw": "{\"findings\":[{\"complaintId\":\"popup-walls\",\"hate\":\"Pop-ups and interstitials slamming over the page before anything can be read\",\"source\":\"Nielsen Norman Group — popup/interstitial usability (Nielsen 2004, reconfirmed 2017); Google interstitial penalty (2017)\",\"demand\":\"Nothing blocks the page. Any notice is inline, small and dismissible.\",\"bite\":\"universal pain — every visitor feels it\"},{\"complaintId\":\"autoplay-sound\",\"hate\":\"Audio or video that starts playing uninvited\",\"source\":\"Nielsen Norma",
-   "interpretation": "Scanned 31 documented complaint themes in the review corpus. For a ceramics workshop the primary pains are the 28 universal ones (blocking popups, autoplay, dead links, contact hunts, fluff copy, tracking walls, broken mobile, sameness…) plus the commerce pains that bite this niche hardest: hidden-prices, shipping-surprise, detail-missing. Total in scope for this build: 31 pains. Every one becomes a demand, every demand becomes rules on the tasks it feeds.",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.059Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t24-1794645830057",
-   "taskId": "mat-quiet-6a03e7-t24",
-   "taskTitle": "Survey what people hate — the review corpus scan",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Read the corpus of documented public complaints and user research; select the pains that bite for this niche.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Cite the source of every pain you keep. | Universal pains always stay; commerce pains join when the niche sells. | Every selected pain must carry a demand.",
-   "raw": "{\"findings\":[{\"complaintId\":\"popup-walls\",\"hate\":\"Pop-ups and interstitials slamming over the page before anything can be read\",\"source\":\"Nielsen Norman Group — popup/interstitial usability (Nielsen 2004, reconfirmed 2017); Google interstitial penalty (2017)\",\"demand\":\"Nothing blocks the page. Any notice is inline, small and dismissible.\",\"bite\":\"universal pain — every visitor feels it\"},{\"complaintId\":\"autoplay-sound\",\"hate\":\"Audio or video that starts playing uninvited\",\"source\":\"Nielsen Norma",
-   "interpretation": "Scanned 31 documented complaint themes in the review corpus. For a yoga atelier the primary pains are the 28 universal ones (blocking popups, autoplay, dead links, contact hunts, fluff copy, tracking walls, broken mobile, sameness…) plus the commerce pains that bite this niche hardest: hidden-prices, shipping-surprise, detail-missing. Total in scope for this build: 31 pains. Every one becomes a demand, every demand becomes rules on the tasks it feeds.",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.057Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t1-1794645830055",
-   "taskId": "leaf-wilder-55aca6-t1",
-   "taskTitle": "Survey what people hate — the review corpus scan",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Read the corpus of documented public complaints and user research; select the pains that bite for this niche.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Cite the source of every pain you keep. | Universal pains always stay; commerce pains join when the niche sells. | Every selected pain must carry a demand.",
-   "raw": "{\"findings\":[{\"complaintId\":\"popup-walls\",\"hate\":\"Pop-ups and interstitials slamming over the page before anything can be read\",\"source\":\"Nielsen Norman Group — popup/interstitial usability (Nielsen 2004, reconfirmed 2017); Google interstitial penalty (2017)\",\"demand\":\"Nothing blocks the page. Any notice is inline, small and dismissible.\",\"bite\":\"universal pain — every visitor feels it\"},{\"complaintId\":\"autoplay-sound\",\"hate\":\"Audio or video that starts playing uninvited\",\"source\":\"Nielsen Norma",
-   "interpretation": "Scanned 31 documented complaint themes in the review corpus. For a plant store the primary pains are the 28 universal ones (blocking popups, autoplay, dead links, contact hunts, fluff copy, tracking walls, broken mobile, sameness…) plus the commerce pains that bite this niche hardest: hidden-prices, shipping-surprise, detail-missing. Total in scope for this build: 31 pains. Every one becomes a demand, every demand becomes rules on the tasks it feeds.",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.95,
-   "at": "2026-11-14T08:43:50.055Z"
   }
  ]
 }
