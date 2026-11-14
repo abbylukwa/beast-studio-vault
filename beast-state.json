@@ -11484,10 +11484,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 10
+     "precision": 0.9,
+     "slot": 10,
+     "acceptedAt": "2026-11-14T09:30:12.370Z"
     },
     {
      "id": "leaf-wilder-55aca6-t348",
@@ -11512,10 +11513,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 11
+     "precision": 0.9,
+     "slot": 11,
+     "acceptedAt": "2026-11-14T09:30:31.758Z"
     },
     {
      "id": "leaf-wilder-55aca6-t349",
@@ -24984,10 +24986,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 1
+     "precision": 0.9,
+     "slot": 1,
+     "acceptedAt": "2026-11-14T09:30:11.858Z"
     },
     {
      "id": "mat-quiet-6a03e7-t710",
@@ -25012,10 +25015,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 2
+     "precision": 0.9,
+     "slot": 2,
+     "acceptedAt": "2026-11-14T09:30:12.464Z"
     },
     {
      "id": "mat-quiet-6a03e7-t711",
@@ -38767,10 +38771,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 9
+     "precision": 0.9,
+     "slot": 9,
+     "acceptedAt": "2026-11-14T09:30:12.263Z"
     },
     {
      "id": "the-wilder-clay-344665-t1085",
@@ -38795,10 +38800,11 @@
      "knowledge": [
       "schema.org Product; breadcrumb pattern"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "slot": 10
+     "precision": 0.9,
+     "slot": 10,
+     "acceptedAt": "2026-11-14T09:30:12.565Z"
     },
     {
      "id": "the-wilder-clay-344665-t1086",
@@ -40766,6 +40772,48 @@
   }
  ],
  "log": [
+  {
+   "at": "2026-11-14T09:30:31.759Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Build product page — Local delivery · grand",
+   "message": "Leaf & Wilder: built product-12-local-delivery-grand.html — price $45.14, specs, 3 related, Product JSON-LD (28KB)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T09:30:12.565Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Build product page — School visits · petite",
+   "message": "The Wilder Clay: built product-11-school-visits-petite.html — price $371.91, specs, 3 related, Product JSON-LD (27KB)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T09:30:12.464Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Build product page — Beginner courses",
+   "message": "Mat & Quiet: built product-3-beginner-courses.html — price $49.3, specs, 3 related, Product JSON-LD (27KB)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T09:30:12.370Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Build product page — Office greenery · petite",
+   "message": "Leaf & Wilder: built product-11-office-greenery-petite.html — price $16.39, specs, 3 related, Product JSON-LD (28KB)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T09:30:12.263Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Build product page — Member shelves · deluxe",
+   "message": "The Wilder Clay: built product-10-member-shelves-deluxe.html — price $47.61, specs, 3 related, Product JSON-LD (27KB)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T09:30:11.858Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Build product page — Yin & sound",
+   "message": "Mat & Quiet: built product-2-yin-sound.html — price $33.22, specs, 3 related, Product JSON-LD (27KB)",
+   "level": "done"
+  },
   {
    "at": "2026-11-14T09:30:11.754Z",
    "siteId": "leaf-wilder-55aca6",
@@ -43523,51 +43571,99 @@
    "taskTitle": "Account — resolve the page imagery",
    "message": "Leaf & Wilder: image gallery-12 — live CC image from openverse (cc0) (383KB) (+1 fetch)",
    "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:08:12.057Z",
-   "siteId": "the-wilder-clay-344665",
-   "taskTitle": "Account — body block 3 of 3",
-   "message": "The Wilder Clay: Account — body block 3 of 3 — deterministic solver — block 3, 16 words, one fact",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:08:11.758Z",
-   "siteId": "mat-quiet-6a03e7",
-   "taskTitle": "Account — body block 3 of 3",
-   "message": "Mat & Quiet: Account — body block 3 of 3 — deterministic solver — block 3, 20 words, one fact",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:08:11.657Z",
-   "siteId": "leaf-wilder-55aca6",
-   "taskTitle": "Account — body block 3 of 3",
-   "message": "Leaf & Wilder: Account — body block 3 of 3 — deterministic solver — block 3, 16 words, one fact",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:07:52.364Z",
-   "siteId": "the-wilder-clay-344665",
-   "taskTitle": "Account — body block 2 of 3",
-   "message": "The Wilder Clay: Account — body block 2 of 3 — deterministic solver — block 2, 23 words, one fact",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:07:52.265Z",
-   "siteId": "mat-quiet-6a03e7",
-   "taskTitle": "Account — body block 2 of 3",
-   "message": "Mat & Quiet: Account — body block 2 of 3 — deterministic solver — block 2, 21 words, one fact",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T09:07:52.253Z",
-   "siteId": "leaf-wilder-55aca6",
-   "taskTitle": "Account — body block 2 of 3",
-   "message": "Leaf & Wilder: Account — body block 2 of 3 — deterministic solver — block 2, 22 words, one fact",
-   "level": "done"
   }
  ],
  "transcript": [
+  {
+   "id": "leaf-wilder-55aca6-t348-1794648631758",
+   "taskId": "leaf-wilder-55aca6-t348",
+   "taskTitle": "Build product page — Local delivery · grand",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “Local delivery · grand”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "Leaf & Wilder: built product-12-local-delivery-grand.html — price $45.14, specs, 3 related, Product JSON-LD (28KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:31.758Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t1085-1794648612565",
+   "taskId": "the-wilder-clay-344665-t1085",
+   "taskTitle": "Build product page — School visits · petite",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “School visits · petite”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "The Wilder Clay: built product-11-school-visits-petite.html — price $371.91, specs, 3 related, Product JSON-LD (27KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:12.565Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t710-1794648612464",
+   "taskId": "mat-quiet-6a03e7-t710",
+   "taskTitle": "Build product page — Beginner courses",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “Beginner courses”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "Mat & Quiet: built product-3-beginner-courses.html — price $49.3, specs, 3 related, Product JSON-LD (27KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:12.464Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t347-1794648612370",
+   "taskId": "leaf-wilder-55aca6-t347",
+   "taskTitle": "Build product page — Office greenery · petite",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “Office greenery · petite”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "Leaf & Wilder: built product-11-office-greenery-petite.html — price $16.39, specs, 3 related, Product JSON-LD (28KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:12.370Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t1084-1794648612263",
+   "taskId": "the-wilder-clay-344665-t1084",
+   "taskTitle": "Build product page — Member shelves · deluxe",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “Member shelves · deluxe”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "The Wilder Clay: built product-10-member-shelves-deluxe.html — price $47.61, specs, 3 related, Product JSON-LD (27KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:12.263Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t709-1794648611858",
+   "taskId": "mat-quiet-6a03e7-t709",
+   "taskTitle": "Build product page — Yin & sound",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Render the full detail page for “Yin & sound”: gallery image, price, description, specs, related products, Product JSON-LD, favourite button.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Price on the page — no \"ask us\". | Breadcrumb Home → Shop → product. | Related = 3 other catalog items with links. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the questions before they are asked.",
+   "raw": "Mat & Quiet: built product-2-yin-sound.html — price $33.22, specs, 3 related, Product JSON-LD (27KB)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T09:30:11.858Z"
+  },
   {
    "id": "leaf-wilder-55aca6-t346-1794648611754",
    "taskId": "leaf-wilder-55aca6-t346",
@@ -47977,96 +48073,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.9,
    "at": "2026-11-14T09:13:51.760Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t248-1794647631654",
-   "taskId": "leaf-wilder-55aca6-t248",
-   "taskTitle": "Product 12 of 12 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “Local delivery · grand”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"Our take on the standard, done properly. Priced at 45.14 — no hidden extras.\",\"alt\":\"Local delivery · grand — plant store in Riverton\"}",
-   "interpretation": "product 12: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:51.654Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t985-1794647612460",
-   "taskId": "the-wilder-clay-344665-t985",
-   "taskTitle": "Product 11 of 12 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “School visits · petite”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"The one regulars ask for by name. Made in the PortEllen bench; ready in 3 days.\",\"alt\":\"School visits · petite — ceramics workshop in PortEllen\"}",
-   "interpretation": "product 11: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:32.460Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t610-1794647612359",
-   "taskId": "mat-quiet-6a03e7-t610",
-   "taskTitle": "Product 11 of 16 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “Private sessions · petite”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"The one regulars ask for by name. Made in the Calder bench; ready in 3 days.\",\"alt\":\"Private sessions · petite — yoga atelier in Calder\"}",
-   "interpretation": "product 11: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:32.359Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t247-1794647612257",
-   "taskId": "leaf-wilder-55aca6-t247",
-   "taskTitle": "Product 11 of 12 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “Office greenery · petite”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"Made to order, never boxed ahead. A leaf-standard piece, checked twice before it leaves.\",\"alt\":\"Office greenery · petite — plant store in Riverton\"}",
-   "interpretation": "product 11: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:32.257Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t984-1794647611954",
-   "taskId": "the-wilder-clay-344665-t984",
-   "taskTitle": "Product 10 of 12 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “Member shelves · deluxe”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"Our take on the standard, done properly. A clay-standard piece, checked twice before it leaves.\",\"alt\":\"Member shelves · deluxe — ceramics workshop in PortEllen\"}",
-   "interpretation": "product 10: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:31.954Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t609-1794647611756",
-   "taskId": "mat-quiet-6a03e7-t609",
-   "taskTitle": "Product 10 of 16 — description + alt text",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Refine “Teacher training · deluxe”: one concrete-fact description and the image alt text.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Description 12–30 words with a numeral or material. | Alt text says what is shown, not \"image of\". | Tags only when true — no fake scarcity. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [dark-patterns]: Honest counts, easy outs, no nagging. | Review law [hidden-prices]: Prices plain on the listing AND the detail view. | Review law [shipping-surprise]: Every fee named up front — the price on the page is the price you pay. | Review law [detail-missing]: A detail page that answers the question",
-   "raw": "{\"desc\":\"Our take on the standard, done properly. A breath-standard piece, checked twice before it leaves.\",\"alt\":\"Teacher training · deluxe — yoga atelier in Calder\"}",
-   "interpretation": "product 10: description carries a fact; alt names the thing shown",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T09:13:31.756Z"
   }
  ]
 }
