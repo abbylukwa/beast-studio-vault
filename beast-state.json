@@ -1858,6 +1858,10 @@
       {
        "kicker": "Why here",
        "body": "Prices are on the page — the engagement stages starts at 1800 and everything is listed plainly. What you see is what you pay."
+      },
+      {
+       "kicker": "The facts",
+       "body": "Visitors welcome at the printworks building. Email or call; both reach a human within a day."
       }
      ]
     },
@@ -1885,6 +1889,18 @@
       "license": "by-sa",
       "creator": "PericlesofAthens",
       "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=4277755"
+     },
+     {
+      "slotId": "gallery-2",
+      "role": "gallery",
+      "query": "building facade",
+      "status": "live",
+      "file": "assets/gallery-2.jpg",
+      "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_Sheung_Shui_%E9%BE%8D%E7%90%9B%E8%B7%AF_Lung_Sum_Avenue_view_Shek_Wu_Hui_building_facades_Jan_2017_Lnv2_04.jpg",
+      "source": "openverse",
+      "license": "by-sa",
+      "creator": "Gaosoruela",
+      "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=54748768"
      }
     ]
    },
@@ -3648,11 +3664,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:04:06.851Z"
     },
     {
      "id": "paperatelier-fbab9d-t115",
@@ -3675,10 +3692,11 @@
      "knowledge": [
       "Creative Commons licensing terms; Openverse/Wikimedia attribution norms"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "pageKey": "products"
+     "precision": 0.9,
+     "pageKey": "products",
+     "acceptedAt": "2026-11-14T10:04:07.759Z"
     },
     {
      "id": "paperatelier-fbab9d-t116",
@@ -14057,6 +14075,10 @@
       {
        "kicker": "Why here",
        "body": "Prices are on the page — the class passes starts at 18 and everything is listed plainly. What you see is what you pay."
+      },
+      {
+       "kicker": "The facts",
+       "body": "Walk-ins: the courtyard studio, most days. Email or call; both reach a human within a day."
       }
      ]
     },
@@ -14083,6 +14105,18 @@
       "license": "by",
       "creator": "Bijay Chaurasia",
       "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=82381413"
+     },
+     {
+      "slotId": "gallery-2",
+      "role": "gallery",
+      "query": "meditation room",
+      "status": "live",
+      "file": "assets/gallery-2.jpg",
+      "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Meditation_room%2C_Beijing_%282012%29.jpg",
+      "source": "openverse",
+      "license": "by-sa",
+      "creator": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 21:35, 24 March 2023 (UTC)",
+      "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=129963801"
      }
     ]
    },
@@ -15846,11 +15880,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:04:07.057Z"
     },
     {
      "id": "river-little-843073-t481",
@@ -15873,10 +15908,11 @@
      "knowledge": [
       "Creative Commons licensing terms; Openverse/Wikimedia attribution norms"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "pageKey": "products"
+     "precision": 0.9,
+     "pageKey": "products",
+     "acceptedAt": "2026-11-14T10:04:26.896Z"
     },
     {
      "id": "river-little-843073-t482",
@@ -26245,6 +26281,14 @@
       {
        "kicker": "How it goes",
        "body": "we film every session and review it over coffee after. Ask us anything before you commit — the answer is free. In Kirkwall since 2021."
+      },
+      {
+       "kicker": "Why here",
+       "body": "Prices are on the page — the lessons & hire starts at 40 and everything is listed plainly. No hidden extras, ever."
+      },
+      {
+       "kicker": "The facts",
+       "body": "Walk-ins: the dune shack, most days. Call the desk that fits your question — every number is labelled."
       }
      ]
     },
@@ -28006,11 +28050,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "products",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:04:06.657Z"
     },
     {
      "id": "the-amber-swell-e216f2-t846",
@@ -28034,11 +28079,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:04:07.254Z"
     },
     {
      "id": "the-amber-swell-e216f2-t847",
@@ -36827,6 +36873,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T10:04:26.896Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Shop — resolve the page imagery",
+   "message": "River & Little: image gallery-2 — live CC image from openverse (by-sa) (569KB) (+1 fetch)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:07.759Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Shop — resolve the page imagery",
+   "message": "PaperAtelier: image gallery-2 — live CC image from openverse (by-sa) (2580KB) (+1 fetch)",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:07.254Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Shop — body block 3 of 3",
+   "message": "The Amber Swell: Shop — body block 3 of 3 — deterministic solver — block 3, 18 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:07.057Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Shop — body block 3 of 3",
+   "message": "River & Little: Shop — body block 3 of 3 — deterministic solver — block 3, 16 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:06.851Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Shop — body block 3 of 3",
+   "message": "PaperAtelier: Shop — body block 3 of 3 — deterministic solver — block 3, 16 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:06.657Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Shop — body block 2 of 3",
+   "message": "The Amber Swell: Shop — body block 2 of 3 — deterministic solver — block 2, 22 words, one fact",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T10:04:06.551Z",
    "siteId": "river-little-843073",
    "taskTitle": "Shop — body block 2 of 3",
@@ -38256,6 +38344,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "river-little-843073-t481-1794650666896",
+   "taskId": "river-little-843073-t481",
+   "taskTitle": "Shop — resolve the page imagery",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Select and download the openly licensed image for the shop page slot.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Openly licensed only (CC0/PD/BY/BY-SA); attribution is mandatory. | First accepted fetch freezes — determinism law. | Alt text must say what is actually shown. | Review law [speed-death]: A fast page: light HTML, lazy images, no junk scripts. | Review law [stock-photos]: Real, specific imagery with alt text that says what is actually shown. | Review law [a11y-neglect]: Alt text, landmarks, visible focus, reduced-motion respect.",
+   "raw": "River & Little: image gallery-2 — live CC image from openverse (by-sa) (569KB) (+1 fetch)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:26.896Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t115-1794650647759",
+   "taskId": "paperatelier-fbab9d-t115",
+   "taskTitle": "Shop — resolve the page imagery",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Select and download the openly licensed image for the shop page slot.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Openly licensed only (CC0/PD/BY/BY-SA); attribution is mandatory. | First accepted fetch freezes — determinism law. | Alt text must say what is actually shown. | Review law [speed-death]: A fast page: light HTML, lazy images, no junk scripts. | Review law [stock-photos]: Real, specific imagery with alt text that says what is actually shown. | Review law [a11y-neglect]: Alt text, landmarks, visible focus, reduced-motion respect.",
+   "raw": "PaperAtelier: image gallery-2 — live CC image from openverse (by-sa) (2580KB) (+1 fetch)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:07.759Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t846-1794650647254",
+   "taskId": "the-amber-swell-e216f2-t846",
+   "taskTitle": "Shop — body block 3 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 3 of 3 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"The facts\",\"body\":\"Walk-ins: the dune shack, most days. Call the desk that fits your question — every number is labelled.\"}",
+   "interpretation": "deterministic solver — block 3, 18 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:04:07.254Z"
+  },
+  {
+   "id": "river-little-843073-t480-1794650647057",
+   "taskId": "river-little-843073-t480",
+   "taskTitle": "Shop — body block 3 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 3 of 3 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"The facts\",\"body\":\"Walk-ins: the courtyard studio, most days. Email or call; both reach a human within a day.\"}",
+   "interpretation": "deterministic solver — block 3, 16 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:04:07.057Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t114-1794650646851",
+   "taskId": "paperatelier-fbab9d-t114",
+   "taskTitle": "Shop — body block 3 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 3 of 3 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"The facts\",\"body\":\"Visitors welcome at the printworks building. Email or call; both reach a human within a day.\"}",
+   "interpretation": "deterministic solver — block 3, 16 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:04:06.851Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t845-1794650646657",
+   "taskId": "the-amber-swell-e216f2-t845",
+   "taskTitle": "Shop — body block 2 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 2 of 3 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"Why here\",\"body\":\"Prices are on the page — the lessons & hire starts at 40 and everything is listed plainly. No hidden extras, ever.\"}",
+   "interpretation": "deterministic solver — block 2, 22 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:04:06.657Z"
+  },
   {
    "id": "river-little-843073-t479-1794650646512",
    "taskId": "river-little-843073-t479",
