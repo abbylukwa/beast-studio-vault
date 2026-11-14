@@ -1849,7 +1849,9 @@
      "directory": [
       "Every desk, every number",
       "Who to ask for what",
-      "Hours, plainly"
+      "Hours, plainly",
+      "One promise: a reply within a day",
+      "What you get — leaf standard"
      ]
     },
     "copy": {
@@ -4736,11 +4738,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T08:57:30.358Z"
     },
     {
      "id": "leaf-wilder-55aca6-t150",
@@ -4762,11 +4765,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T08:57:30.959Z"
     },
     {
      "id": "leaf-wilder-55aca6-t151",
@@ -14139,7 +14143,9 @@
      "directory": [
       "Every desk, every number",
       "Who to ask for what",
-      "Hours, plainly"
+      "Hours, plainly",
+      "One promise: a reply within a day",
+      "What you get — breath standard"
      ]
     },
     "copy": {
@@ -17022,11 +17028,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T08:57:30.554Z"
     },
     {
      "id": "mat-quiet-6a03e7-t513",
@@ -17048,11 +17055,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T08:57:31.058Z"
     },
     {
      "id": "mat-quiet-6a03e7-t514",
@@ -26729,7 +26737,9 @@
      "directory": [
       "Every desk, every number",
       "Who to ask for what",
-      "Hours, plainly"
+      "Hours, plainly",
+      "One promise: a reply within a day",
+      "What you get — clay standard"
      ]
     },
     "copy": {
@@ -29614,11 +29624,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T08:57:30.854Z"
     },
     {
      "id": "the-wilder-clay-344665-t888",
@@ -29640,11 +29651,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 4
+     "slot": 4,
+     "acceptedAt": "2026-11-14T08:57:50.558Z"
     },
     {
      "id": "the-wilder-clay-344665-t889",
@@ -37155,6 +37167,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T08:57:50.559Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "message": "The Wilder Clay: Contacts — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:31.058Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "message": "Mat & Quiet: Contacts — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:30.959Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "message": "Leaf & Wilder: Contacts — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:30.854Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "message": "The Wilder Clay: Contacts — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:30.652Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "message": "Mat & Quiet: Contacts — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:57:30.358Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "message": "Leaf & Wilder: Contacts — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T08:57:30.257Z",
    "siteId": "the-wilder-clay-344665",
    "taskTitle": "Contacts — heading 3 of 6",
@@ -39326,6 +39380,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "the-wilder-clay-344665-t888-1794646670558",
+   "taskId": "the-wilder-clay-344665-t888",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — clay standard\",\"alt\":\"What you get — clay standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:50.558Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t513-1794646651058",
+   "taskId": "mat-quiet-6a03e7-t513",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — breath standard\",\"alt\":\"What you get — breath standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:31.058Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t150-1794646650959",
+   "taskId": "leaf-wilder-55aca6-t150",
+   "taskTitle": "Contacts — heading 5 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 5 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What you get — leaf standard\",\"alt\":\"What you get — leaf standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:30.959Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t887-1794646650854",
+   "taskId": "the-wilder-clay-344665-t887",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"One promise: a reply within a day\",\"alt\":\"One promise: a reply within a day\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:30.854Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t512-1794646650554",
+   "taskId": "mat-quiet-6a03e7-t512",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"One promise: a reply within a day\",\"alt\":\"One promise: a reply within a day\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:30.554Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t149-1794646650358",
+   "taskId": "leaf-wilder-55aca6-t149",
+   "taskTitle": "Contacts — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"One promise: a reply within a day\",\"alt\":\"One promise: a reply within a day\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:30.358Z"
+  },
   {
    "id": "the-wilder-clay-344665-t886-1794646650257",
    "taskId": "the-wilder-clay-344665-t886",
@@ -43735,96 +43879,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.9,
    "at": "2026-11-14T08:44:30.061Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t50-1794645850076",
-   "taskId": "the-wilder-clay-344665-t50",
-   "taskTitle": "Compose visitor persona 2 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 2st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Trust Checker\",\"device\":\"D3\",\"goal\":\"wants to know who is behind the ceramics workshop before writing to them\",\"pains\":[\"speed-death\",\"stock-photos\",\"forced-accounts\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 2 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.076Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t27-1794645850074",
-   "taskId": "mat-quiet-6a03e7-t27",
-   "taskTitle": "Compose visitor persona 2 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 2st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Trust Checker\",\"device\":\"D3\",\"goal\":\"wants to know who is behind the yoga atelier before writing to them\",\"pains\":[\"speed-death\",\"stock-photos\",\"forced-accounts\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 2 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.074Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t4-1794645850072",
-   "taskId": "leaf-wilder-55aca6-t4",
-   "taskTitle": "Compose visitor persona 2 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 2st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Trust Checker\",\"device\":\"D3\",\"goal\":\"wants to know who is behind the plant store before writing to them\",\"pains\":[\"speed-death\",\"stock-photos\",\"forced-accounts\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 2 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.072Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t49-1794645850069",
-   "taskId": "the-wilder-clay-344665-t49",
-   "taskTitle": "Compose visitor persona 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 1st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Priced-First Skimmer\",\"device\":\"D1\",\"goal\":\"finds the price list in under ten seconds, then books\",\"pains\":[\"popup-walls\",\"autoplay-sound\",\"carousel-ignore\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 1 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.069Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t26-1794645850063",
-   "taskId": "mat-quiet-6a03e7-t26",
-   "taskTitle": "Compose visitor persona 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 1st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Priced-First Skimmer\",\"device\":\"D1\",\"goal\":\"finds the price list in under ten seconds, then books\",\"pains\":[\"popup-walls\",\"autoplay-sound\",\"carousel-ignore\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 1 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.063Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t3-1794645850058",
-   "taskId": "leaf-wilder-55aca6-t3",
-   "taskTitle": "Compose visitor persona 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Build the 1st visitor the findings describe — device, goal, the pains they feel.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | The persona comes FROM the findings, not from imagination. | The device class must be named.",
-   "raw": "{\"persona\":{\"name\":\"The Priced-First Skimmer\",\"device\":\"D1\",\"goal\":\"finds the price list in under ten seconds, then books\",\"pains\":[\"popup-walls\",\"autoplay-sound\",\"carousel-ignore\"]}}",
-   "interpretation": "3 personas composed from the findings; each journey's friction points map to locked demands. — persona 1 of 3",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:44:10.058Z"
   }
  ]
 }
