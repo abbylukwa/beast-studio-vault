@@ -2117,6 +2117,16 @@
        "kicker": "The facts",
        "body": "Visitors welcome at the old roastery lane. The directory lists who to ask for what."
       }
+     ],
+     "admin": [
+      {
+       "kicker": "How it goes",
+       "body": "every batch is roasted on Thursdays and rested before it ships. We keep two slots open each week for first-time visitors. In Ashford since 2018."
+      },
+      {
+       "kicker": "Why here",
+       "body": "Prices are on the page — the the coffee list starts at 4 and everything is listed plainly. No \"contact us for pricing\"."
+      }
      ]
     },
     "images": [
@@ -7016,11 +7026,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "admin",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:42:24.936Z"
     },
     {
      "id": "ground-velvet-29839e-t223",
@@ -7044,11 +7055,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "admin",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:42:25.188Z"
     },
     {
      "id": "ground-velvet-29839e-t224",
@@ -15219,6 +15231,16 @@
        "kicker": "The facts",
        "body": "Visitors welcome at the cellar door. The directory lists who to ask for what."
       }
+     ],
+     "admin": [
+      {
+       "kicker": "How it goes",
+       "body": "we pay the musicians properly and it shows in the third set. We keep two slots open each week for first-time visitors. In PortEllen since 2020."
+      },
+      {
+       "kicker": "Why here",
+       "body": "Prices are on the page — the tonight & the bar starts at 14 and everything is listed plainly. No \"contact us for pricing\"."
+      }
      ]
     },
     "images": [
@@ -20118,11 +20140,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "admin",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:42:25.031Z"
     },
     {
      "id": "ironblue-4ef77f-t604",
@@ -20146,11 +20169,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "admin",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:42:35.051Z"
     },
     {
      "id": "ironblue-4ef77f-t605",
@@ -28191,7 +28215,8 @@
       "Products, edited live",
       "Export the values, re-render the site",
       "What you get — stem standard",
-      "How it runs — stem standard"
+      "How it runs — stem standard",
+      "The honest numbers — stem standard"
      ]
     },
     "copy": {
@@ -28375,6 +28400,12 @@
       {
        "kicker": "The facts",
        "body": "Walk-ins: the flower corner, most days. Email or call; both reach a human within a day."
+      }
+     ],
+     "admin": [
+      {
+       "kicker": "How it goes",
+       "body": "if it is not in season, it is not in the bucket. Every piece is checked before it leaves the bench. In Riverton since 2021."
       }
      ]
     },
@@ -33244,11 +33275,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "admin",
-     "slot": 5
+     "slot": 5,
+     "acceptedAt": "2026-11-14T10:42:24.754Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t984",
@@ -33272,11 +33304,12 @@
       "Robin Williams, The Non-Designer’s Design Book (1994) — Contrast, Repetition, Alignment, Proximity",
       "NN/g — How Users Read on the Web"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.85,
      "pageKey": "admin",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:42:25.143Z"
     },
     {
      "id": "the-paper-meadow-e34caa-t985",
@@ -40167,6 +40200,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T10:42:35.150Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Admin — body block 2 of 3",
+   "message": "IronBlue: Admin — body block 2 of 3 — deterministic solver — block 2, 24 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:42:25.189Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Admin — body block 2 of 3",
+   "message": "Ground & Velvet: Admin — body block 2 of 3 — deterministic solver — block 2, 23 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:42:25.143Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Admin — body block 1 of 3",
+   "message": "The Paper Meadow: Admin — body block 1 of 3 — deterministic solver — block 1, 25 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:42:25.031Z",
+   "siteId": "ironblue-4ef77f",
+   "taskTitle": "Admin — body block 1 of 3",
+   "message": "IronBlue: Admin — body block 1 of 3 — deterministic solver — block 1, 26 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:42:24.936Z",
+   "siteId": "ground-velvet-29839e",
+   "taskTitle": "Admin — body block 1 of 3",
+   "message": "Ground & Velvet: Admin — body block 1 of 3 — deterministic solver — block 1, 25 words, one fact",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:42:24.754Z",
+   "siteId": "the-paper-meadow-e34caa",
+   "taskTitle": "Admin — heading 6 of 6",
+   "message": "The Paper Meadow: Admin — heading 6 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T10:42:24.705Z",
    "siteId": "ironblue-4ef77f",
    "taskTitle": "Admin — heading 6 of 6",
@@ -42923,51 +42998,99 @@
    "taskTitle": "About — heading 5 of 6",
    "message": "IronBlue: About — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
    "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:24.519Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "About — heading 5 of 6",
-   "message": "Ground & Velvet: About — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:05.254Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "About — heading 4 of 6",
-   "message": "The Paper Meadow: About — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:05.063Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "About — heading 4 of 6",
-   "message": "IronBlue: About — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:04.954Z",
-   "siteId": "ground-velvet-29839e",
-   "taskTitle": "About — heading 4 of 6",
-   "message": "Ground & Velvet: About — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:04.755Z",
-   "siteId": "the-paper-meadow-e34caa",
-   "taskTitle": "About — heading 3 of 6",
-   "message": "The Paper Meadow: About — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:04.561Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "About — heading 3 of 6",
-   "message": "IronBlue: About — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
   }
  ],
  "transcript": [
+  {
+   "id": "ironblue-4ef77f-t604-1794652955051",
+   "taskId": "ironblue-4ef77f-t604",
+   "taskTitle": "Admin — body block 2 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 2 of 3 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"Why here\",\"body\":\"Prices are on the page — the tonight & the bar starts at 14 and everything is listed plainly. No \\\"contact us for pricing\\\".\"}",
+   "interpretation": "deterministic solver — block 2, 24 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:42:35.051Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t223-1794652945188",
+   "taskId": "ground-velvet-29839e-t223",
+   "taskTitle": "Admin — body block 2 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 2 of 3 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"Why here\",\"body\":\"Prices are on the page — the the coffee list starts at 4 and everything is listed plainly. No \\\"contact us for pricing\\\".\"}",
+   "interpretation": "deterministic solver — block 2, 23 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:42:25.188Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t984-1794652945143",
+   "taskId": "the-paper-meadow-e34caa-t984",
+   "taskTitle": "Admin — body block 1 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 1 of 3 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"How it goes\",\"body\":\"if it is not in season, it is not in the bucket. Every piece is checked before it leaves the bench. In Riverton since 2021.\"}",
+   "interpretation": "deterministic solver — block 1, 25 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:42:25.143Z"
+  },
+  {
+   "id": "ironblue-4ef77f-t603-1794652945031",
+   "taskId": "ironblue-4ef77f-t603",
+   "taskTitle": "Admin — body block 1 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 1 of 3 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"How it goes\",\"body\":\"we pay the musicians properly and it shows in the third set. We keep two slots open each week for first-time visitors. In PortEllen since 2020.\"}",
+   "interpretation": "deterministic solver — block 1, 26 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:42:25.031Z"
+  },
+  {
+   "id": "ground-velvet-29839e-t222-1794652944936",
+   "taskId": "ground-velvet-29839e-t222",
+   "taskTitle": "Admin — body block 1 of 3",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write body block 1 of 3 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
+   "raw": "{\"kicker\":\"How it goes\",\"body\":\"every batch is roasted on Thursdays and rested before it ships. We keep two slots open each week for first-time visitors. In Ashford since 2018.\"}",
+   "interpretation": "deterministic solver — block 1, 25 words, one fact",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.85,
+   "at": "2026-11-14T10:42:24.936Z"
+  },
+  {
+   "id": "the-paper-meadow-e34caa-t983-1794652944754",
+   "taskId": "the-paper-meadow-e34caa-t983",
+   "taskTitle": "Admin — heading 6 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 6 of 6 for the admin page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"The honest numbers — stem standard\",\"alt\":\"The honest numbers — stem standard\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:42:24.754Z"
+  },
   {
    "id": "ironblue-4ef77f-t602-1794652944705",
    "taskId": "ironblue-4ef77f-t602",
@@ -47377,96 +47500,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.85,
    "at": "2026-11-14T10:25:45.051Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t504-1794651944950",
-   "taskId": "ironblue-4ef77f-t504",
-   "taskTitle": "Work — body block 2 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write body block 2 of 3 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
-   "raw": "{\"kicker\":\"Why here\",\"body\":\"Prices are on the page — the tonight & the bar starts at 14 and everything is listed plainly. No \\\"contact us for pricing\\\".\"}",
-   "interpretation": "deterministic solver — block 2, 24 words, one fact",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.85,
-   "at": "2026-11-14T10:25:44.950Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t123-1794651944850",
-   "taskId": "ground-velvet-29839e-t123",
-   "taskTitle": "Work — body block 2 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write body block 2 of 3 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
-   "raw": "{\"kicker\":\"Why here\",\"body\":\"Prices are on the page — the the coffee list starts at 4 and everything is listed plainly. No \\\"contact us for pricing\\\".\"}",
-   "interpretation": "deterministic solver — block 2, 23 words, one fact",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.85,
-   "at": "2026-11-14T10:25:44.850Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t884-1794651944750",
-   "taskId": "the-paper-meadow-e34caa-t884",
-   "taskTitle": "Work — body block 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write body block 1 of 3 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
-   "raw": "{\"kicker\":\"How it goes\",\"body\":\"if it is not in season, it is not in the bucket. Every piece is checked before it leaves the bench. In Riverton since 2021.\"}",
-   "interpretation": "deterministic solver — block 1, 25 words, one fact",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.85,
-   "at": "2026-11-14T10:25:44.750Z"
-  },
-  {
-   "id": "ironblue-4ef77f-t503-1794651944650",
-   "taskId": "ironblue-4ef77f-t503",
-   "taskTitle": "Work — body block 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write body block 1 of 3 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
-   "raw": "{\"kicker\":\"How it goes\",\"body\":\"we pay the musicians properly and it shows in the third set. We keep two slots open each week for first-time visitors. In PortEllen since 2020.\"}",
-   "interpretation": "deterministic solver — block 1, 26 words, one fact",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.85,
-   "at": "2026-11-14T10:25:44.650Z"
-  },
-  {
-   "id": "ground-velvet-29839e-t122-1794651944565",
-   "taskId": "ground-velvet-29839e-t122",
-   "taskTitle": "Work — body block 1 of 3",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write body block 1 of 3 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | 25–70 words. | One concrete fact (numeral or proper noun) required. | No banned marketing words. | Review law [about-trust]: Named people, a real address, a since-year, a promise. | Review law [fluff]: Plain words, concrete nouns, real numbers. | Review law [review-farming]: Voices with names, places and dates — or none at all.",
-   "raw": "{\"kicker\":\"How it goes\",\"body\":\"every batch is roasted on Thursdays and rested before it ships. We keep two slots open each week for first-time visitors. In Ashford since 2018.\"}",
-   "interpretation": "deterministic solver — block 1, 25 words, one fact",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.85,
-   "at": "2026-11-14T10:25:44.565Z"
-  },
-  {
-   "id": "the-paper-meadow-e34caa-t883-1794651925158",
-   "taskId": "the-paper-meadow-e34caa-t883",
-   "taskTitle": "Work — heading 6 of 6",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Write heading 6 of 6 for the work page.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
-   "raw": "{\"text\":\"How it runs — stem standard\",\"alt\":\"How it runs — stem standard\"}",
-   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T10:25:25.158Z"
   }
  ]
 }
