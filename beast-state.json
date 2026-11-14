@@ -1845,6 +1845,9 @@
       "Visit Riverton",
       "What you get — leaf standard",
       "How it runs — leaf standard"
+     ],
+     "directory": [
+      "Every desk, every number"
      ]
     },
     "copy": {
@@ -4650,11 +4653,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T08:56:56.356Z"
     },
     {
      "id": "leaf-wilder-55aca6-t147",
@@ -14127,6 +14131,9 @@
       "Visit Calder",
       "What you get — breath standard",
       "How it runs — breath standard"
+     ],
+     "directory": [
+      "Every desk, every number"
      ]
     },
     "copy": {
@@ -16928,11 +16935,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T08:56:56.456Z"
     },
     {
      "id": "mat-quiet-6a03e7-t510",
@@ -26709,6 +26717,9 @@
       "Visit PortEllen",
       "What you get — clay standard",
       "How it runs — clay standard"
+     ],
+     "directory": [
+      "Every desk, every number"
      ]
     },
     "copy": {
@@ -26856,6 +26867,17 @@
       "license": "cc0",
       "creator": "unknown",
       "sourcePage": "https://www.rawpixel.com/image/3305358/free-photo-image-artist-clay-pottery"
+     },
+     {
+      "slotId": "gallery-5",
+      "role": "gallery",
+      "query": "ceramic bowls",
+      "status": "live",
+      "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ceramic_bowl_full_of_white_rice.jpg",
+      "source": "openverse",
+      "license": "by",
+      "creator": "epSos.de",
+      "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=27942428"
      }
     ]
    },
@@ -29475,10 +29497,11 @@
      "knowledge": [
       "Creative Commons licensing terms; Openverse/Wikimedia attribution norms"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "pageKey": "contact"
+     "precision": 0.9,
+     "pageKey": "contact",
+     "acceptedAt": "2026-11-14T08:56:56.277Z"
     },
     {
      "id": "the-wilder-clay-344665-t884",
@@ -29500,11 +29523,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "directory",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T08:57:10.554Z"
     },
     {
      "id": "the-wilder-clay-344665-t885",
@@ -37119,6 +37143,34 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T08:57:10.554Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "message": "The Wilder Clay: Contacts — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:56:56.456Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "message": "Mat & Quiet: Contacts — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:56:56.356Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "message": "Leaf & Wilder: Contacts — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:56:56.277Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Contact — resolve the page imagery",
+   "message": "The Wilder Clay: image gallery-5 — live CC image from openverse (by) (+1 fetch)",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T08:56:55.761Z",
    "siteId": "mat-quiet-6a03e7",
    "taskTitle": "Contact — resolve the page imagery",
@@ -39220,6 +39272,66 @@
   }
  ],
  "transcript": [
+  {
+   "id": "the-wilder-clay-344665-t884-1794646630554",
+   "taskId": "the-wilder-clay-344665-t884",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Every desk, every number\",\"alt\":\"Every desk, every number\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:57:10.554Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t509-1794646616456",
+   "taskId": "mat-quiet-6a03e7-t509",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Every desk, every number\",\"alt\":\"Every desk, every number\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:56:56.456Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t146-1794646616356",
+   "taskId": "leaf-wilder-55aca6-t146",
+   "taskTitle": "Contacts — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the contacts page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Every desk, every number\",\"alt\":\"Every desk, every number\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:56:56.356Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t883-1794646616277",
+   "taskId": "the-wilder-clay-344665-t883",
+   "taskTitle": "Contact — resolve the page imagery",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Select and download the openly licensed image for the contact page slot.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Openly licensed only (CC0/PD/BY/BY-SA); attribution is mandatory. | First accepted fetch freezes — determinism law. | Alt text must say what is actually shown. | Review law [speed-death]: A fast page: light HTML, lazy images, no junk scripts. | Review law [stock-photos]: Real, specific imagery with alt text that says what is actually shown. | Review law [a11y-neglect]: Alt text, landmarks, visible focus, reduced-motion respect.",
+   "raw": "The Wilder Clay: image gallery-5 — live CC image from openverse (by) (+1 fetch)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T08:56:56.277Z"
+  },
   {
    "id": "mat-quiet-6a03e7-t508-1794646615761",
    "taskId": "mat-quiet-6a03e7-t508",
