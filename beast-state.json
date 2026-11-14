@@ -1814,7 +1814,9 @@
      ],
      "products": [
       "Engagement stages",
-      "The regulars’ picks"
+      "The regulars’ picks",
+      "This season only",
+      "Made to order"
      ]
     },
     "copy": {
@@ -3466,11 +3468,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:03:06.664Z"
     },
     {
      "id": "paperatelier-fbab9d-t109",
@@ -3492,11 +3495,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T10:03:07.053Z"
     },
     {
      "id": "paperatelier-fbab9d-t110",
@@ -13993,7 +13997,9 @@
      ],
      "products": [
       "Class passes",
-      "The regulars’ picks"
+      "The regulars’ picks",
+      "This season only",
+      "Made to order"
      ]
     },
     "copy": {
@@ -15644,11 +15650,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:03:06.851Z"
     },
     {
      "id": "river-little-843073-t475",
@@ -15670,11 +15677,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 3
+     "slot": 3,
+     "acceptedAt": "2026-11-14T10:03:26.552Z"
     },
     {
      "id": "river-little-843073-t476",
@@ -26164,7 +26172,9 @@
       "How it runs — salt standard"
      ],
      "products": [
-      "Lessons & hire"
+      "Lessons & hire",
+      "The regulars’ picks",
+      "This season only"
      ]
     },
     "copy": {
@@ -27789,11 +27799,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:03:06.566Z"
     },
     {
      "id": "the-amber-swell-e216f2-t840",
@@ -27815,11 +27826,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "products",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T10:03:06.865Z"
     },
     {
      "id": "the-amber-swell-e216f2-t841",
@@ -36770,6 +36782,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T10:03:26.553Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Shop — heading 4 of 6",
+   "message": "River & Little: Shop — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:03:07.053Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Shop — heading 4 of 6",
+   "message": "PaperAtelier: Shop — heading 4 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:03:06.865Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Shop — heading 3 of 6",
+   "message": "The Amber Swell: Shop — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:03:06.851Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Shop — heading 3 of 6",
+   "message": "River & Little: Shop — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:03:06.751Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Shop — heading 3 of 6",
+   "message": "PaperAtelier: Shop — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:03:06.651Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Shop — heading 2 of 6",
+   "message": "The Amber Swell: Shop — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T10:03:06.552Z",
    "siteId": "river-little-843073",
    "taskTitle": "Shop — heading 2 of 6",
@@ -38073,6 +38127,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "river-little-843073-t475-1794650606552",
+   "taskId": "river-little-843073-t475",
+   "taskTitle": "Shop — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Made to order\",\"alt\":\"Made to order\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:26.552Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t109-1794650587052",
+   "taskId": "paperatelier-fbab9d-t109",
+   "taskTitle": "Shop — heading 4 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 4 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Made to order\",\"alt\":\"Made to order\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:07.053Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t840-1794650586865",
+   "taskId": "the-amber-swell-e216f2-t840",
+   "taskTitle": "Shop — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"This season only\",\"alt\":\"This season only\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:06.865Z"
+  },
+  {
+   "id": "river-little-843073-t474-1794650586851",
+   "taskId": "river-little-843073-t474",
+   "taskTitle": "Shop — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"This season only\",\"alt\":\"This season only\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:06.851Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t108-1794650586664",
+   "taskId": "paperatelier-fbab9d-t108",
+   "taskTitle": "Shop — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"This season only\",\"alt\":\"This season only\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:06.664Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t839-1794650586566",
+   "taskId": "the-amber-swell-e216f2-t839",
+   "taskTitle": "Shop — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the shop page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"The regulars’ picks\",\"alt\":\"The regulars’ picks\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:03:06.566Z"
+  },
   {
    "id": "river-little-843073-t473-1794650586552",
    "taskId": "river-little-843073-t473",
