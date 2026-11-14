@@ -1855,7 +1855,9 @@
       "How it runs — leaf standard"
      ],
      "journal": [
-      "Notes from the bench"
+      "Notes from the bench",
+      "Season notes",
+      "What we learned"
      ]
     },
     "copy": {
@@ -4990,11 +4992,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:58:32.259Z"
     },
     {
      "id": "leaf-wilder-55aca6-t158",
@@ -5016,11 +5019,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 2
+     "slot": 2,
+     "acceptedAt": "2026-11-14T08:58:51.654Z"
     },
     {
      "id": "leaf-wilder-55aca6-t159",
@@ -14183,6 +14187,10 @@
       "One promise: a reply within a day",
       "What you get — breath standard",
       "How it runs — breath standard"
+     ],
+     "journal": [
+      "Notes from the bench",
+      "Season notes"
      ]
     },
     "copy": {
@@ -17286,11 +17294,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T08:58:31.759Z"
     },
     {
      "id": "mat-quiet-6a03e7-t520",
@@ -17312,11 +17321,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:58:32.362Z"
     },
     {
      "id": "mat-quiet-6a03e7-t521",
@@ -26809,6 +26819,10 @@
       "One promise: a reply within a day",
       "What you get — clay standard",
       "How it runs — clay standard"
+     ],
+     "journal": [
+      "Notes from the bench",
+      "Season notes"
      ]
     },
     "copy": {
@@ -29914,11 +29928,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T08:58:32.153Z"
     },
     {
      "id": "the-wilder-clay-344665-t895",
@@ -29940,11 +29955,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "journal",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T08:58:32.464Z"
     },
     {
      "id": "the-wilder-clay-344665-t896",
@@ -37267,6 +37283,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T08:58:51.654Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Journal — heading 3 of 6",
+   "message": "Leaf & Wilder: Journal — heading 3 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:58:32.464Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Journal — heading 2 of 6",
+   "message": "The Wilder Clay: Journal — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:58:32.362Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Journal — heading 2 of 6",
+   "message": "Mat & Quiet: Journal — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:58:32.259Z",
+   "siteId": "leaf-wilder-55aca6",
+   "taskTitle": "Journal — heading 2 of 6",
+   "message": "Leaf & Wilder: Journal — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:58:32.153Z",
+   "siteId": "the-wilder-clay-344665",
+   "taskTitle": "Journal — heading 1 of 6",
+   "message": "The Wilder Clay: Journal — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T08:58:31.759Z",
+   "siteId": "mat-quiet-6a03e7",
+   "taskTitle": "Journal — heading 1 of 6",
+   "message": "Mat & Quiet: Journal — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T08:58:31.659Z",
    "siteId": "leaf-wilder-55aca6",
    "taskTitle": "Journal — heading 1 of 6",
@@ -39592,6 +39650,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "leaf-wilder-55aca6-t158-1794646731654",
+   "taskId": "leaf-wilder-55aca6-t158",
+   "taskTitle": "Journal — heading 3 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 3 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"What we learned\",\"alt\":\"What we learned\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:51.654Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t895-1794646712464",
+   "taskId": "the-wilder-clay-344665-t895",
+   "taskTitle": "Journal — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Season notes\",\"alt\":\"Season notes\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:32.464Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t520-1794646712362",
+   "taskId": "mat-quiet-6a03e7-t520",
+   "taskTitle": "Journal — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Season notes\",\"alt\":\"Season notes\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:32.362Z"
+  },
+  {
+   "id": "leaf-wilder-55aca6-t157-1794646712258",
+   "taskId": "leaf-wilder-55aca6-t157",
+   "taskTitle": "Journal — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Season notes\",\"alt\":\"Season notes\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:32.259Z"
+  },
+  {
+   "id": "the-wilder-clay-344665-t894-1794646712153",
+   "taskId": "the-wilder-clay-344665-t894",
+   "taskTitle": "Journal — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Notes from the bench\",\"alt\":\"Notes from the bench\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:32.153Z"
+  },
+  {
+   "id": "mat-quiet-6a03e7-t519-1794646711759",
+   "taskId": "mat-quiet-6a03e7-t519",
+   "taskTitle": "Journal — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the journal page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Notes from the bench\",\"alt\":\"Notes from the bench\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T08:58:31.759Z"
+  },
   {
    "id": "leaf-wilder-55aca6-t156-1794646711659",
    "taskId": "leaf-wilder-55aca6-t156",
@@ -44001,96 +44149,6 @@
    "action": "output frozen into artifacts",
    "precision": 0.9,
    "at": "2026-11-14T08:45:30.069Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t12-1794645910156",
-   "taskId": "leaf-wilder-55aca6-t12",
-   "taskTitle": "Reason about D4 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D4\",\"note\":\"D4 (Windows / macOS desktops 1441–1920px). Input: precise pointer, large canvas — density is welcome. Context: deep work, multi-tab comparison. Colour law: bento/tinted cards in surface + accent washes; mega footer on bgAlt. Layout must re-arrange structurally on D4, never just shrink..\"}",
-   "interpretation": "D4 (Windows / macOS desktops 1441–1920px). Input: precise pointer, large canvas — density is welcome. Context: deep work, multi-tab comparison. Colour law: bento/tinted cards in surface + accent washes; mega footer on bgAlt. Layout must re-arrange structurally on D4, never just shrink..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.156Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t57-1794645910154",
-   "taskId": "the-wilder-clay-344665-t57",
-   "taskTitle": "Reason about D3 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D3\",\"note\":\"D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the ceramics workshop reads differently here..\"}",
-   "interpretation": "D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the ceramics workshop reads differently here..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.154Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t34-1794645910075",
-   "taskId": "mat-quiet-6a03e7-t34",
-   "taskTitle": "Reason about D3 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D3\",\"note\":\"D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the yoga atelier reads differently here..\"}",
-   "interpretation": "D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the yoga atelier reads differently here..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.075Z"
-  },
-  {
-   "id": "leaf-wilder-55aca6-t11-1794645910073",
-   "taskId": "leaf-wilder-55aca6-t11",
-   "taskTitle": "Reason about D3 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D3\",\"note\":\"D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the plant store reads differently here..\"}",
-   "interpretation": "D3 (Windows / macOS / ChromeOS laptops 1025–1440px). Input: pointer + keyboard — hover affordances expected. Context: task mode: comparing, shortlisting, filling forms. Colour law: full palette unlocked; ink-panel heroes carry accent numerals. D3 gets its own arrangement from the book — the plant store reads differently here..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.073Z"
-  },
-  {
-   "id": "the-wilder-clay-344665-t56-1794645910069",
-   "taskId": "the-wilder-clay-344665-t56",
-   "taskTitle": "Reason about D2 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D2\",\"note\":\"D2 (iPadOS / Android tablets 641–1024px). Input: touch + optional keyboard — hover states must be optional. Context: leaning back, longer sessions, comparison reading. Colour law: surface cards on bgAlt bands; accent2 for secondary highlights. D2 gets its own arrangement from the book — the ceramics workshop reads differently here..\"}",
-   "interpretation": "D2 (iPadOS / Android tablets 641–1024px). Input: touch + optional keyboard — hover states must be optional. Context: leaning back, longer sessions, comparison reading. Colour law: surface cards on bgAlt bands; accent2 for secondary highlights. D2 gets its own arrangement from the book — the ceramics workshop reads differently here..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.069Z"
-  },
-  {
-   "id": "mat-quiet-6a03e7-t33-1794645910066",
-   "taskId": "mat-quiet-6a03e7-t33",
-   "taskTitle": "Reason about D2 — OS, input, context",
-   "provider": "deterministic-solver",
-   "mode": "solver",
-   "promptTitle": "Reason what this device's users need from THIS site: OS family, input model, context of use, colour behaviour.",
-   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Name the OS family and input model. | Layout must re-arrange structurally on this device, never just shrink.",
-   "raw": "{\"device\":\"D2\",\"note\":\"D2 (iPadOS / Android tablets 641–1024px). Input: touch + optional keyboard — hover states must be optional. Context: leaning back, longer sessions, comparison reading. Colour law: surface cards on bgAlt bands; accent2 for secondary highlights. Layout must re-arrange structurally on D2, never just shrink..\"}",
-   "interpretation": "D2 (iPadOS / Android tablets 641–1024px). Input: touch + optional keyboard — hover states must be optional. Context: leaning back, longer sessions, comparison reading. Colour law: surface cards on bgAlt bands; accent2 for secondary highlights. Layout must re-arrange structurally on D2, never just shrink..",
-   "verdict": "ACCEPT",
-   "action": "output frozen into artifacts",
-   "precision": 0.9,
-   "at": "2026-11-14T08:45:10.066Z"
   }
  ]
 }
