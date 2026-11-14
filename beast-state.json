@@ -1819,6 +1819,10 @@
       "Made to order",
       "What you get — atelier standard",
       "How it runs — atelier standard"
+     ],
+     "gallery": [
+      "Fresh from the bench",
+      "This season’s work"
      ]
     },
     "copy": {
@@ -3718,11 +3722,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "gallery",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:04:28.356Z"
     },
     {
      "id": "paperatelier-fbab9d-t117",
@@ -3744,11 +3749,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "gallery",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:04:28.655Z"
     },
     {
      "id": "paperatelier-fbab9d-t118",
@@ -14036,6 +14042,10 @@
       "Made to order",
       "What you get — breath standard",
       "How it runs — breath standard"
+     ],
+     "gallery": [
+      "Fresh from the bench",
+      "This season’s work"
      ]
     },
     "copy": {
@@ -15934,11 +15944,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "gallery",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:04:28.456Z"
     },
     {
      "id": "river-little-843073-t483",
@@ -15960,11 +15971,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "gallery",
-     "slot": 1
+     "slot": 1,
+     "acceptedAt": "2026-11-14T10:04:46.565Z"
     },
     {
      "id": "river-little-843073-t484",
@@ -26246,6 +26258,9 @@
       "Made to order",
       "What you get — salt standard",
       "How it runs — salt standard"
+     ],
+     "gallery": [
+      "Fresh from the bench"
      ]
     },
     "copy": {
@@ -26316,6 +26331,17 @@
       "license": "by-sa",
       "creator": "Celebrating suburbia",
       "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=180317842"
+     },
+     {
+      "slotId": "gallery-2",
+      "role": "gallery",
+      "query": "surfboard",
+      "status": "live",
+      "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Surfboards_%288422914814%29.jpg",
+      "source": "openverse",
+      "license": "by",
+      "creator": "Alex Proimos from Sydney, Australia",
+      "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=25648432"
      }
     ]
    },
@@ -28107,10 +28133,11 @@
      "knowledge": [
       "Creative Commons licensing terms; Openverse/Wikimedia attribution norms"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
-     "pageKey": "products"
+     "precision": 0.9,
+     "pageKey": "products",
+     "acceptedAt": "2026-11-14T10:04:27.857Z"
     },
     {
      "id": "the-amber-swell-e216f2-t848",
@@ -28132,11 +28159,12 @@
       "Steve Krug, Don’t Make Me Think (2000) — clarity beats cleverness",
       "Nielsen Norman Group — eyetracking & reading patterns (F, Z, layer-cake, spotted)"
      ],
-     "status": "queued",
+     "status": "accepted",
      "attempts": 0,
-     "precision": 0,
+     "precision": 0.9,
      "pageKey": "gallery",
-     "slot": 0
+     "slot": 0,
+     "acceptedAt": "2026-11-14T10:04:28.555Z"
     },
     {
      "id": "the-amber-swell-e216f2-t849",
@@ -36873,6 +36901,48 @@
  ],
  "log": [
   {
+   "at": "2026-11-14T10:04:46.566Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Work — heading 2 of 6",
+   "message": "River & Little: Work — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:28.655Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Work — heading 2 of 6",
+   "message": "PaperAtelier: Work — heading 2 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:28.555Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Work — heading 1 of 6",
+   "message": "The Amber Swell: Work — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:28.456Z",
+   "siteId": "river-little-843073",
+   "taskTitle": "Work — heading 1 of 6",
+   "message": "River & Little: Work — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:28.356Z",
+   "siteId": "paperatelier-fbab9d",
+   "taskTitle": "Work — heading 1 of 6",
+   "message": "PaperAtelier: Work — heading 1 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
+   "level": "done"
+  },
+  {
+   "at": "2026-11-14T10:04:27.857Z",
+   "siteId": "the-amber-swell-e216f2",
+   "taskTitle": "Shop — resolve the page imagery",
+   "message": "The Amber Swell: image gallery-2 — live CC image from openverse (by) (+1 fetch)",
+   "level": "done"
+  },
+  {
    "at": "2026-11-14T10:04:26.896Z",
    "siteId": "river-little-843073",
    "taskTitle": "Shop — resolve the page imagery",
@@ -38344,6 +38414,96 @@
   }
  ],
  "transcript": [
+  {
+   "id": "river-little-843073-t483-1794650686565",
+   "taskId": "river-little-843073-t483",
+   "taskTitle": "Work — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the work page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"This season’s work\",\"alt\":\"This season’s work\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:46.565Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t117-1794650668655",
+   "taskId": "paperatelier-fbab9d-t117",
+   "taskTitle": "Work — heading 2 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 2 of 6 for the work page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"This season’s work\",\"alt\":\"This season’s work\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:28.655Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t848-1794650668555",
+   "taskId": "the-amber-swell-e216f2-t848",
+   "taskTitle": "Work — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the work page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Fresh from the bench\",\"alt\":\"Fresh from the bench\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:28.555Z"
+  },
+  {
+   "id": "river-little-843073-t482-1794650668456",
+   "taskId": "river-little-843073-t482",
+   "taskTitle": "Work — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the work page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Fresh from the bench\",\"alt\":\"Fresh from the bench\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:28.456Z"
+  },
+  {
+   "id": "paperatelier-fbab9d-t116-1794650668356",
+   "taskId": "paperatelier-fbab9d-t116",
+   "taskTitle": "Work — heading 1 of 6",
+   "provider": "deterministic-solver",
+   "mode": "solver",
+   "promptTitle": "Write heading 1 of 6 for the work page.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | ≤ 60 characters. | Must not duplicate any frozen heading (the list is in your state). | Lead with benefit or action; niche vocabulary required. | Review law [fluff]: Plain words, concrete nouns, real numbers.",
+   "raw": "{\"text\":\"Fresh from the bench\",\"alt\":\"Fresh from the bench\"}",
+   "interpretation": "deterministic solver — heading from niche grammar, uniqueness-checked",
+   "verdict": "ACCEPT",
+   "action": "output frozen into artifacts",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:28.356Z"
+  },
+  {
+   "id": "the-amber-swell-e216f2-t847-1794650667857",
+   "taskId": "the-amber-swell-e216f2-t847",
+   "taskTitle": "Shop — resolve the page imagery",
+   "provider": "beast-io",
+   "mode": "solver",
+   "promptTitle": "Select and download the openly licensed image for the shop page slot.",
+   "envelope": "One thought per element — never blend two ideas into one block. | Concrete nouns beat adjectives; a numeral or proper noun must appear where possible. | Banned words: best, world-class, amazing, unbeatable, #1. | The city and the niche vocabulary must appear naturally. | Openly licensed only (CC0/PD/BY/BY-SA); attribution is mandatory. | First accepted fetch freezes — determinism law. | Alt text must say what is actually shown. | Review law [speed-death]: A fast page: light HTML, lazy images, no junk scripts. | Review law [stock-photos]: Real, specific imagery with alt text that says what is actually shown. | Review law [a11y-neglect]: Alt text, landmarks, visible focus, reduced-motion respect.",
+   "raw": "The Amber Swell: image gallery-2 — live CC image from openverse (by) (+1 fetch)",
+   "interpretation": "IO task executed",
+   "verdict": "ACCEPT",
+   "action": "artifact written to disk",
+   "precision": 0.9,
+   "at": "2026-11-14T10:04:27.857Z"
+  },
   {
    "id": "river-little-843073-t481-1794650666896",
    "taskId": "river-little-843073-t481",
