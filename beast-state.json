@@ -40200,6 +40200,11 @@
  ],
  "log": [
   {
+   "at": "2026-11-15T11:12:17.903Z",
+   "message": "Vault adopted — 3 site(s) and the full ledger restored from beast-studio-vault.",
+   "level": "info"
+  },
+  {
    "at": "2026-11-14T10:42:35.150Z",
    "siteId": "ironblue-4ef77f",
    "taskTitle": "Admin — body block 2 of 3",
@@ -42990,13 +42995,6 @@
    "siteId": "the-paper-meadow-e34caa",
    "taskTitle": "About — heading 5 of 6",
    "message": "The Paper Meadow: About — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
-   "level": "done"
-  },
-  {
-   "at": "2026-11-14T10:20:24.560Z",
-   "siteId": "ironblue-4ef77f",
-   "taskTitle": "About — heading 5 of 6",
-   "message": "IronBlue: About — heading 5 of 6 — deterministic solver — heading from niche grammar, uniqueness-checked",
    "level": "done"
   }
  ],
